@@ -1,7 +1,7 @@
 # Library-Management-System
 A Library Management System developed as the semester project for OOP module.
 
-// Created By- JKSL Jayakody
+// Created By- Sandul Jayakody
 	    
 // Username & Passwords
 
