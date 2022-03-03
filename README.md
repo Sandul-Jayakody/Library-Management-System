@@ -3,7 +3,7 @@ A Library Management System developed as the semester project for OOP module.
 
 // Created By- Sandul Jayakody
 	    
-// Username & Passwords
+// Usernames & Passwords
 
 ----admin login----
 
